@@ -1,0 +1,13 @@
+.todolist{
+  border: 1px solid #3d3d3d;
+  margin: 50px 30px;
+  padding: 25px 30px;
+}
+.to-do-container {
+  display: flex;
+  flex-direction: column;
+}
+.to-do-container ul li {
+  width: 180px;
+  overflow-wrap: break-word;
+}
